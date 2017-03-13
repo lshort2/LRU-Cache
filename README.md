@@ -1,6 +1,7 @@
 #LRU (Least Recently Used Cache)
 ![Cache diagram]
 (http://2.bp.blogspot.com/-d4lLgfO1Hes/UXPj9nY5CLI/AAAAAAAAJTU/_5iO5TbMd7k/s1600/bonappetit_lrucache01.png)
+
 *Diagram courtesy of http://2.bp.blogspot.com/-d4lLgfO1Hes/UXPj9nY5CLI/AAAAAAAAJTU/_5iO5TbMd7k/s1600/bonappetit_lrucache01.png*
 
 Keys are used to specify the data elements to be accessed. Each of which have a string value (val).
